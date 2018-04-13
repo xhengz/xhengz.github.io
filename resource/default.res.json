@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,btn_rotate_png,btn_left_png,btn_pause_png,btn_play_png,btn_quit_png,btn_rank_png,btn_right_png,bg_tool_bar_png,bg_game_frame_png,bg_game_panel_png,bg_main_png,text_title_png,cube_yellow_png,cube_green_png,cube_orange_png,cube_red_png,cube_black_png,cube_gray_png",
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,btn_rotate_png,btn_left_png,btn_pause_png,btn_play_png,btn_quit_png,btn_rank_png,btn_right_png,bg_tool_bar_png,bg_game_frame_png,bg_game_panel_png,bg_main_png,text_title_png,cube_yellow_png,cube_green_png,cube_orange_png,cube_red_png,cube_black_png,cube_gray_png,contra_mp3",
 			"name": "preload"
 		}
 	],
@@ -225,6 +225,11 @@
 			"name": "cube_gray_png",
 			"type": "image",
 			"url": "assets/ItemRenderer/cube_gray.png"
+		},
+		{
+			"name": "contra_mp3",
+			"type": "sound",
+			"url": "assets/music/contra.mp3"
 		}
 	]
 }
